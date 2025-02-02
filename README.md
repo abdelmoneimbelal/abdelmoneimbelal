@@ -87,7 +87,7 @@ I am a **Professional PHP/Laravel Developer** passionate about building smart an
 
 ### 📞 Connect With Me:
 <p align="center">
-  <a href="kedin.com/in/abdelmoneim-belal-70b393173/">
+  <a href="https://www.linkedin.com/in/abdelmoneim-belal-70b393173/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/abdelmoneimbelal/">
