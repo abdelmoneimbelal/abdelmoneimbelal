@@ -76,7 +76,7 @@ I am a **Professional PHP/Laravel Developer** passionate about building smart an
 </p>
 
 📈 **Completed Projects:** `+50`  
-📆 **Years of Experience:** `+5`  
+📆 **Years of Experience:** `+3`  
 🚀 **Success Rate:** `98%`  
 👥 **Clients Served:** `100+`  
 🖥 **Lines of Code Written:** `1M+`  
