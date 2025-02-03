@@ -27,7 +27,7 @@ I am a **Professional PHP/Laravel Developer** passionate about building smart an
 <table align="center">
   <tr>
     <td>💻 PHP & Laravel</td>
-    <td>🔥🔥🔥🔥🔥</td>
+    <td>🔥🔥🔥🔥</td>
   </tr>
   <tr>
     <td>⚡ Livewire</td>
@@ -43,7 +43,7 @@ I am a **Professional PHP/Laravel Developer** passionate about building smart an
   </tr>
   <tr>
     <td>☁️ RESTful APIs</td>
-    <td>🔥🔥🔥🔥🔥</td>
+    <td>🔥🔥🔥🔥</td>
   </tr>
   <tr>
     <td>🔍 AI & OpenAI Integration</td>
