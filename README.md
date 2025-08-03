@@ -72,6 +72,8 @@ I am a **Professional PHP/Laravel Developer** passionate about building smart an
 ### 📊 My GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdelmoneimbelal&show_icons=true&theme=radical" alt="GitHub Stats" width="400" hight="400" />
+  <br />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelmoneimbelal&layout=compact&theme=radical" alt="Top Languages" width="400" hight="400" />
 </p>
 
