@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Livewire](https://img.shields.io/badge/Livewire-4B32C3?style=for-the-badge&logo=livewire&logoColor=white)
 
-![Banner](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDYxMG85YWZtcnZydGN5aDBlYjV5czg0azBjZnhiYTM0M3FobzE1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8UHGqq9xqJmwZZtHn/giphy.gif)
 
 I am a **Professional PHP/Laravel Developer** passionate about building smart and interactive systems! 🎯
 
